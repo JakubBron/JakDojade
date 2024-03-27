@@ -1,0 +1,14 @@
+﻿  JakDojade.cpp
+C:\STUDIA PG\Algorytmy i struktury danych\projekty\Jak-dojade\JakDojade\JakDojade\Map.h(84,30): warning C4018: '<': signed/unsigned mismatch
+C:\STUDIA PG\Algorytmy i struktury danych\projekty\Jak-dojade\JakDojade\JakDojade\Map.h(82): message : while compiling class template member function 'ValueType &UnorderedMap<ValueType>::operator [](const Vector<char> &)'
+          with
+          [
+              ValueType=int
+          ]
+C:\STUDIA PG\Algorytmy i struktury danych\projekty\Jak-dojade\JakDojade\JakDojade\JakDojade.cpp(118): message : see reference to function template instantiation 'ValueType &UnorderedMap<ValueType>::operator [](const Vector<char> &)' being compiled
+          with
+          [
+              ValueType=int
+          ]
+C:\STUDIA PG\Algorytmy i struktury danych\projekty\Jak-dojade\JakDojade\JakDojade\JakDojade.cpp(31): message : see reference to class template instantiation 'UnorderedMap<int>' being compiled
+  JakDojade.vcxproj -> C:\STUDIA PG\Algorytmy i struktury danych\projekty\Jak-dojade\JakDojade\Debug\JakDojade.exe
